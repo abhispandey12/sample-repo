@@ -1,1 +1,1 @@
-# sample-repo
+sample repo to test the git command
